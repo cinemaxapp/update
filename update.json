@@ -1,5 +1,5 @@
 {
  "versionCode": 11, // Updated version code
  "cancellable": false, // If you want to force users to update the app
- "url": "https://github.com/Flix4u/update/releases/download/Latest/Flix4u.apk" // If you want users to update the app from an External URL or from the Google Play URL
+ "url": "https://google.com" // If you want users to update the app from an External URL or from the Google Play URL
 }
